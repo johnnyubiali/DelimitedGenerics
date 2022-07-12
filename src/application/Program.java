@@ -27,7 +27,7 @@ public class Program {
 			}
 			
 			Product x = CalculationService.max(list);
-			System.out.println("Max: ");
+			System.out.println("Most Expensive: ");
 			System.out.println(x);
 		}
 		catch (IOException e){
